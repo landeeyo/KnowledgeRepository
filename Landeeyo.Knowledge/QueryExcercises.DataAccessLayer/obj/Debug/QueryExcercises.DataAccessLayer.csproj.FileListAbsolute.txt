@@ -1,0 +1,11 @@
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.DataAccessLayer\bin\Debug\Databases\Northwind\Northwind.sdf
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.DataAccessLayer\bin\Debug\QueryExcercises.DataAccessLayer.dll.config
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.DataAccessLayer\bin\Debug\QueryExcercises.DataAccessLayer.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.DataAccessLayer\bin\Debug\QueryExcercises.DataAccessLayer.pdb
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.DataAccessLayer\bin\Debug\EntityFramework.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.DataAccessLayer\bin\Debug\EntityFramework.xml
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.DataAccessLayer\obj\Debug\QueryExcercises.DataAccessLayer.csprojResolveAssemblyReference.cache
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.DataAccessLayer\obj\Debug\QueryExcercises.DataAccessLayer.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.DataAccessLayer\obj\Debug\QueryExcercises.DataAccessLayer.pdb

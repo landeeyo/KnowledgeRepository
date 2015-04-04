@@ -1,0 +1,4 @@
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\PLINQ.Queries\bin\Debug\PLINQ.Queries.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\PLINQ.Queries\bin\Debug\PLINQ.Queries.pdb
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\PLINQ.Queries\obj\Debug\PLINQ.Queries.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\PLINQ.Queries\obj\Debug\PLINQ.Queries.pdb

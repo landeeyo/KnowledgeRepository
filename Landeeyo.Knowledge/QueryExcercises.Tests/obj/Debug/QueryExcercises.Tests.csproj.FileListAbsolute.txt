@@ -1,0 +1,14 @@
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\bin\Debug\xunit.execution.desktop.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\bin\Debug\QueryExcercises.Tests.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\bin\Debug\QueryExcercises.Tests.pdb
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\bin\Debug\xunit.abstractions.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\bin\Debug\xunit.assert.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\bin\Debug\xunit.core.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\bin\Debug\xunit.abstractions.xml
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\bin\Debug\xunit.assert.pdb
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\bin\Debug\xunit.assert.xml
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\bin\Debug\xunit.core.pdb
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\bin\Debug\xunit.core.xml
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\obj\Debug\QueryExcercises.Tests.csprojResolveAssemblyReference.cache
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\obj\Debug\QueryExcercises.Tests.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\QueryExcercises.Tests\obj\Debug\QueryExcercises.Tests.pdb

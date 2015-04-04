@@ -1,0 +1,5 @@
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\PLINQ.Tests\bin\Debug\PLINQ.Tests.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\PLINQ.Tests\bin\Debug\PLINQ.Tests.pdb
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\PLINQ.Tests\obj\Debug\PLINQ.Tests.csprojResolveAssemblyReference.cache
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\PLINQ.Tests\obj\Debug\PLINQ.Tests.dll
+U:\Kod\Github\KnowledgeRepository\Landeeyo.Knowledge\PLINQ.Tests\obj\Debug\PLINQ.Tests.pdb
